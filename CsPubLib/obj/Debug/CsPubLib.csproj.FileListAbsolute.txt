@@ -1,0 +1,8 @@
+E:\GitHub\CSharpPubLib\CsPubLib\bin\Debug\CsPubLib.exe
+E:\GitHub\CSharpPubLib\CsPubLib\bin\Debug\CsPubLib.pdb
+E:\GitHub\CSharpPubLib\CsPubLib\obj\Debug\CsPubLib.csprojResolveAssemblyReference.cache
+E:\GitHub\CSharpPubLib\CsPubLib\obj\Debug\CsPubLib.Properties.Resources.resources
+E:\GitHub\CSharpPubLib\CsPubLib\obj\Debug\CsPubLib.csproj.GenerateResource.Cache
+E:\GitHub\CSharpPubLib\CsPubLib\obj\Debug\CsPubLib.exe
+E:\GitHub\CSharpPubLib\CsPubLib\obj\Debug\CsPubLib.pdb
+E:\GitHub\CSharpPubLib\CsPubLib\obj\Debug\CsPubLib.FormHash.resources
